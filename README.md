@@ -1,5 +1,6 @@
 ## Profiles
-- 📚 [good reads](https://www.goodreads.com/user/show/185771751-nil-ventosa)
+- 📚 [Good reads](https://www.goodreads.com/user/show/185771751-nil-ventosa)
+- 💜 [Exercism](https://exercism.org/profiles/NilVentosa)
 
 <!--
 **NilVentosa/nilventosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
